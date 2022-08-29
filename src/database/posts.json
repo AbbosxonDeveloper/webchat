@@ -1,0 +1,149 @@
+[
+    {
+        "postId": 1,
+        "userId": 1,
+        "username": "ali",
+        "body": "body lorem ipsum",
+        "created_at": "2022-10"
+    },
+    {
+        "postId": 2,
+        "userId": 1,
+        "username": "abbosmas",
+        "body": "alo",
+        "created_at": "16:42:18"
+    },
+    {
+        "postId": 3,
+        "userId": 2,
+        "username": "abbosxon",
+        "body": "salom dostlar",
+        "created_at": "22:57"
+    },
+    {
+        "postId": 4,
+        "userId": 3,
+        "username": "Prime",
+        "body": "Assalom obunachilar chat zormikan",
+        "created_at": "22:59"
+    },
+    {
+        "postId": 5,
+        "userId": 2,
+        "username": "abbosxon",
+        "body": "yaxshi boladi",
+        "created_at": "23:0"
+    },
+    {
+        "postId": 6,
+        "userId": 5,
+        "username": "abbos dev",
+        "body": "qaytdim",
+        "created_at": "18:39"
+    },
+    {
+        "postId": 7,
+        "userId": 5,
+        "username": "abbos dev",
+        "body": "zor",
+        "created_at": "18:40"
+    },
+    {
+        "postId": 8,
+        "userId": 5,
+        "username": "abbos dev",
+        "body": "praym digan odam mani telefonimdagi akauntim",
+        "created_at": "18:40"
+    },
+    {
+        "postId": 9,
+        "userId": 5,
+        "username": "abbos aka",
+        "body": "nma gap",
+        "created_at": "18:42"
+    },
+    {
+        "postId": 10,
+        "userId": 9,
+        "username": "ibrohim aka",
+        "body": "aka qaley",
+        "created_at": "18:51"
+    },
+    {
+        "postId": 11,
+        "userId": 10,
+        "username": "ibrohimT",
+        "body": "qalesan",
+        "created_at": "18:55"
+    },
+    {
+        "postId": 12,
+        "userId": 10,
+        "username": "ibrohimT",
+        "body": "manga tashavor filini",
+        "created_at": "18:55"
+    },
+    {
+        "postId": 13,
+        "userId": 10,
+        "username": "ibrohimT",
+        "body": "ukam",
+        "created_at": "18:55"
+    },
+    {
+        "postId": 14,
+        "userId": 9,
+        "username": "ibrohim aka",
+        "body": "zor boladi",
+        "created_at": "18:55"
+    },
+    {
+        "postId": 15,
+        "userId": 10,
+        "username": "ibrohimT",
+        "body": "qalesan",
+        "created_at": "18:56"
+    },
+    {
+        "postId": 16,
+        "userId": 10,
+        "username": "ibrohimT",
+        "body": "ukam nima qivossan ukam ",
+        "created_at": "18:58"
+    },
+    {
+        "postId": 17,
+        "userId": 9,
+        "username": "ibrohim aka",
+        "body": "mazza qib dars qivomman ",
+        "created_at": "18:58"
+    },
+    {
+        "postId": 18,
+        "userId": 10,
+        "username": "ibrohimT",
+        "body": "hozirmi7",
+        "created_at": "18:59"
+    },
+    {
+        "postId": 19,
+        "userId": 10,
+        "username": "ibrohimT",
+        "body": "ukam",
+        "created_at": "18:59"
+    },
+    {
+        "postId": 20,
+        "userId": 10,
+        "username": "ibrohimT",
+        "body": "qaysi darssi",
+        "created_at": "18:59"
+    },
+    {
+        "postId": 21,
+        "userId": 12,
+        "username": "go up",
+        "body": "pro boys",
+        "created_at": "19:48"
+    }
+]

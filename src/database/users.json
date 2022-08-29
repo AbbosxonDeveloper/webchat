@@ -1,0 +1,65 @@
+[
+    {
+        "userId": 1,
+        "username": "ali",
+        "password": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+        "gender": "male",
+        "contact": "998909534403"
+    },
+    {
+        "userId": 2,
+        "username": "abbosxon",
+        "password": "2cde17550f57341c36827d48a5ec60bc0d585df406476ac60490fda5f34fad43",
+        "contact": "998909534403",
+        "gender": "male"
+    },
+    {
+        "userId": 3,
+        "username": "Prime",
+        "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+        "contact": "998659532648",
+        "gender": "male"
+    },
+    {
+        "userId": 4,
+        "username": "abbos dev",
+        "password": "934d4ee850329ac113a32d603ac6e8c1dc5f5e266dae935ed7f04cd8e9533f24",
+        "contact": "998909534403",
+        "gender": "male"
+    },
+    {
+        "userId": 5,
+        "username": "abbos aka",
+        "password": "934d4ee850329ac113a32d603ac6e8c1dc5f5e266dae935ed7f04cd8e9533f24",
+        "contact": "998909534403",
+        "gender": "male"
+    },
+    {
+        "userId": 9,
+        "username": "ibrohim aka",
+        "password": "9ffb22a4bf1180374fec1622c0126b6d7081e1264b220432358c8f9811db6fb2",
+        "contact": "998909756564",
+        "gender": "male"
+    },
+    {
+        "userId": 10,
+        "username": "ibrohimT",
+        "password": "1d2fed1eb6f2ac3cf8535d94776f67fbc06b5b62f059424ba17b25724bb3c4c2",
+        "contact": "998900421677",
+        "gender": "male"
+    },
+    {
+        "userId": 11,
+        "username": "ibrohim okasi",
+        "password": "54154c9d7bf1305b6319311e531d2f6b503db81ab6dd8bef6f0781919215538e",
+        "contact": "998909756564",
+        "gender": "male"
+    },
+    {
+        "userId": 12,
+        "username": "go up",
+        "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+        "contact": "998909534403",
+        "gender": "male"
+    }
+]
